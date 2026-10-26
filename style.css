@@ -1,0 +1,32 @@
+ body {
+    background-image: url("backgroound.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.navigation {
+   display: flex;
+   justify-content: space-evenly;
+   
+
+}
+div{
+text-align: center;
+color:  blue;
+}
+.hero{
+    height: 500px;
+    text-align: center;
+    padding: 20px;
+}
+ 
+  a {
+    text-decoration: none;
+    color: white;
+  }  
+  button{
+    color: white;
+    background-color: RED;
+  }
